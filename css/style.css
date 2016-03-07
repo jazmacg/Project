@@ -12,6 +12,12 @@ h2 {
   margin-left: 15%;
   margin-bottom: 20px;
 }
+img {
+  margin: 80px auto 0px auto;
+  width:220px;
+  display:block;
+  max-height: 200px; 
+}
 .container {
   background-color: #B8EDFF; 
 }
